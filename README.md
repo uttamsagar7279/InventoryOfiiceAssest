@@ -1,15 +1,15 @@
 # Golang MySQL CRUD Example
 
-http://www.golangprograms.com/example-of-golang-crud-using-mysql-from-scratch.html
+Steps:
 
-After setting a MysQL table run on root folder:
+1. Set MySQL following the tutorial: http://www.golangprograms.com/example-of-golang-crud-using-mysql-from-scratch.html
 
+2. Run the code to start the server:
 ```
 go run main.go
 ```
 
-Load the following URL
-
+3. Access the URL on the browser:
 ```
 http://localhost:8080/
 ```
